@@ -1,0 +1,10 @@
+C:\Users\Fonvi\source\repos\Encoder\Encoder\bin\Debug\Encoder.exe.config
+C:\Users\Fonvi\source\repos\Encoder\Encoder\bin\Debug\Encoder.exe
+C:\Users\Fonvi\source\repos\Encoder\Encoder\bin\Debug\Encoder.pdb
+C:\Users\Fonvi\source\repos\Encoder\Encoder\obj\Debug\Encoder.csprojAssemblyReference.cache
+C:\Users\Fonvi\source\repos\Encoder\Encoder\obj\Debug\Encoder.Form1.resources
+C:\Users\Fonvi\source\repos\Encoder\Encoder\obj\Debug\Encoder.Properties.Resources.resources
+C:\Users\Fonvi\source\repos\Encoder\Encoder\obj\Debug\Encoder.csproj.GenerateResource.cache
+C:\Users\Fonvi\source\repos\Encoder\Encoder\obj\Debug\Encoder.csproj.CoreCompileInputs.cache
+C:\Users\Fonvi\source\repos\Encoder\Encoder\obj\Debug\Encoder.exe
+C:\Users\Fonvi\source\repos\Encoder\Encoder\obj\Debug\Encoder.pdb
